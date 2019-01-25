@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RNMapboxNavigation</string>
+    <string name="mapbox_access_token">{MAP_BOX_TOKEN}</string>
+</resources>
