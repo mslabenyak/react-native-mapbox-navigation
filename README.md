@@ -24,6 +24,14 @@ $ sudo gem install cocoapods
 $ cd ios && pod install
 ```
 
+#### Adding your Mapbox Token
+
+Android replace {MAP_BOX_TOKEN} by your token in:
+`react-native-mapbox-navigation/android/app/src/main/res/values/strings.xml`
+
+iOS replace {MAP_BOX_TOKEN} by your token in:
+`react-native-mapbox-navigation/ios/RNMapboxNavigation/Info.plist`
+
 ## Running the app
 
 #### iOS from the Terminal
